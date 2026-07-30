@@ -9,3 +9,5 @@ Repeatery zwiększają zasięg, przekazując pakiety jeszcze dalej. Większość
 ## Dołącz do nas!
 Strona: https://meshcorepolska.org  
 Discord: https://meshcorepolska.org/discord
+
+![Zapraszamy - MeshCore Polska](https://meshcorepolska.org/images/brand/banner-1.png)
