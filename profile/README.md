@@ -1,4 +1,4 @@
-# MeshCore Polska Sieć LoRa bez internetu i GSM
+# MeshCore Polska Sieć LoRa bez internetu i GSM 📡
 MeshCore Polska to ogólnopolska społeczność użytkowników sieci MeshCore. Budujemy niezależną sieć komunikacji LoRa, która działa bez internetu, zasięgu GSM i centralnej infrastruktury. Sprawdź dokumentację, uruchom własny węzeł i buduj sieć razem z nami! 73!
 
 ## Czym jest MeshCore?
